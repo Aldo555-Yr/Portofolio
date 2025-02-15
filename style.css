@@ -2,11 +2,45 @@
 {
   padding: 0;
   margin: 0;
-  
+  box-sizing: border-box;
 }
 body
 {
   display: flex;
-  background-color:#666;
-  
+  background:#666;
+  justify-content: flex;
+}
+.teks
+{
+  position: relative;
+  font-size: 100px;
+  width: 900px;
+  top: 90px;
+  left: 90px;
+}
+.boxname
+{
+  position: relative;
+  height: 400px;
+  width: 1200px;
+  background: white;
+  border-radius: 5%;
+  left: 0px;
+}
+.boxP
+{
+  position: relative;
+  width: 400px;
+  height: 100px;
+  background: white;
+  top: 585px;
+  right: 840px;
+  border-radius: 5%;
+}
+.portofolio
+{
+  position: relative;
+  font-size: 50px;
+  top: 600px;
+  right: 1150px;
 }
