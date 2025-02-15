@@ -69,8 +69,8 @@ body
 }
 .project1 .p1
 {
-  position: relative;
+  position: absolute;
   font-size: 20px;
   top: 22px;
-  left: 60px;
+  left: 45px;
 }
