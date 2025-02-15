@@ -58,3 +58,19 @@ body
   top: 22px;
   left: 60px;
 }
+.project1
+{
+  position: relative;
+  background: white;
+  height: 70px;
+  width: 200px;
+  top: 285px;
+  border-radius: 5%;
+}
+.project1 .p1
+{
+  position: relative;
+  font-size: 20px;
+  top: 22px;
+  left: 60px;
+}
