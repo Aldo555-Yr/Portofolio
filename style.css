@@ -10,37 +10,51 @@ body
   background:#666;
   justify-content: flex;
 }
-.teks
+.kotakn .teks
 {
   position: relative;
-  font-size: 100px;
-  width: 900px;
-  top: 90px;
-  left: 90px;
+  font-size: 30px;
+  top: 20px;
+  left: 20px;
 }
-.boxname
+.kotakn
 {
-  position: relative;
-  height: 400px;
-  width: 1200px;
+  position: absolute;
+  height: 120px;
+  width: 280px;
   background: white;
   border-radius: 5%;
-  left: 0px;
 }
 .boxP
 {
   position: relative;
-  width: 400px;
-  height: 100px;
+  width: 200px;
+  height: 70px;
   background: white;
-  top: 585px;
-  right: 840px;
+  top: 155px;
   border-radius: 5%;
 }
-.portofolio
+.boxP .portofolio
 {
   position: relative;
-  font-size: 50px;
-  top: 600px;
-  right: 1150px;
+  font-size: 20px;
+  top: 20px;
+  left: 40px;
+}
+.boxb
+{
+  position: relative;
+  width: 200px;
+  height: 70px;
+  background: white;
+  top: 255px;
+  border-radius: 5%;
+  right: 199px;
+}
+.boxb .bulan
+{
+  position: relative;
+  font-size: 20px;
+  top: 22px;
+  left: 60px;
 }
